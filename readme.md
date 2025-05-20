@@ -88,7 +88,7 @@ The `config.py` file includes the following settings:
 - **Incorrect Transcription**: Speak clearly and check your internet connection since the application relies on Google's online speech recognition service.
 
 ## Need Help??
-- Join the Discord [https://discord.fnbubbles420.org/invite](https://discord.fnbubbles420.org/invite)
+- Join the Discord [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
 - Ping `Bubbles`
 
 ## Contributing 🤝

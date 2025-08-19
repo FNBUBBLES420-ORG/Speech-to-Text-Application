@@ -12,3 +12,5 @@ currently being supported with security updates.
 - `SpeechRecognition`
 - `PyAudio`
 - `customtkinter`
+
+[securitygithubissue@fnbubbles420.org](mailto:securitygithubissue@fnbubbles420.org)
